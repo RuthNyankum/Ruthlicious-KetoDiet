@@ -28,7 +28,8 @@ nav {
 }
 
 #nav-links a:hover {
-    color: #454B1B;
+    color: #d4ee2a;
+    font: bolder;
 }
 
 #hero {
